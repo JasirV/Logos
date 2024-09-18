@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import logo1 from './assets/logo1.gif'
 import logo2 from './assets/logo2.gif'
-import logo3 from './assets/logo3.gif'
+import logo3 from './assets/logo3.png'
 
 function App() {
   return (
